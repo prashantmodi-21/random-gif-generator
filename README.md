@@ -1,6 +1,6 @@
 # Random-Gif-Generator
 
-### [Live Site](https://random-gif-generator-0rjz.onrender.com)/)
+### [Live Site](https://random-gif-generator-0rjz.onrender.com)
 
 ![Random Gif Generator - Home](https://i.postimg.cc/hvsc5ySB/gif-home.png)
 
