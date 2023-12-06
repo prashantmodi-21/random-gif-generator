@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import axios from "axios"
 
-const API_KEY = 'iNWaLFAuA5J98M4I4g5SmaPKxx0XVise'
+const API_KEY = import.meta.env.VITE_MY_APP_API_KEY
 const URL = `https://api.giphy.com/v1/gifs/random?api_key=${API_KEY}`
 const Common = (tag) =>{
     const [gif, setGif] = useState('')
@@ -15,7 +15,7 @@ const Common = (tag) =>{
         fetchImg(tag)
     }, [tag])
 
+    console.log(gif)
     return {gif, fetchImg}
 }
-
 export default Common
