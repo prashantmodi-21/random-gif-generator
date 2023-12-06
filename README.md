@@ -1,8 +1,12 @@
-# React + Vite
+# Random-Gif-Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [Live Site](https://random-gif-generator-0rjz.onrender.com)
 
-Currently, two official plugins are available:
+![Random Gif Generator - Home](https://i.postimg.cc/hvsc5ySB/gif-home.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introduction
+This is a Random Gif Application Developed using React.js and Giphy Api. 
+
+Local Setup:
+
+- Run ```npm i``` for packages installation and ```npm run dev``` to run application locally
